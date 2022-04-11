@@ -1,24 +1,15 @@
-# Welcome to HashLips 👄
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
-
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+# Welcome
 
 To find out more please visit:
 
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+[📺 YouTube](https://www.youtube.com/channel/UC1faP2sKzke_rmGdrQ-lEUg)
 
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
+[👄 Discord](https://discord.com/)
 
-[💬 Telegram](https://t.me/hashlipsnft)
+[🐦 Twitter](https://twitter.com/Tacos14J)
 
-[🐦 Twitter](https://twitter.com/hashlipsnft)
+[ℹ️ Website](https://tacos14.space)
 
-[ℹ️ Website](https://hashlips.online/HashLips)
-
-# HashLips Art Engine 🔥
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/banner.png)
 
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js(v10.18.0) installed.
 
@@ -27,7 +18,7 @@ Create generative art by using the canvas api and node js. Before you use the ge
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/HashLips/hashlips_art_engine.git
+git clone https://github.com/tacos142777/art_engine.git
 ```
 
 Go to the root of your folder and run this command if you have yarn installed.
@@ -310,4 +301,3 @@ Trait type: Top lid
 }
 ```
 
-Hope you create some awesome artworks with this code 👄
